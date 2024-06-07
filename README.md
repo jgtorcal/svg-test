@@ -68,3 +68,6 @@ aria-hidden="true"
 
 - Descripción: Indica que el SVG es decorativo y no debería ser anunciado por tecnologías de asistencia, como lectores de pantalla.
 - Uso: Mejora la accesibilidad al ocultar elementos decorativos del flujo de navegación asistido, evitando información redundante para usuarios de tecnologías de asistencia.
+
+## Resumen
+Estas propiedades son fundamentales para definir la apariencia y el comportamiento del SVG dentro de un documento web. Ajustan el tamaño, el color, el grosor de las líneas, y otros aspectos estilísticos, mientras que también permiten la personalización y accesibilidad de los gráficos vectoriales. Utilizando estos atributos de manera efectiva, puedes crear SVGs versátiles y bien integrados en tus proyectos web.
