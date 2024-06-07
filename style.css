@@ -1,0 +1,6 @@
+.icon {
+    width: 100px;
+    height: 100px;
+    stroke: red; /* Cambia el color de la línea */
+    fill: #f0f0f0; /* Color de relleno */
+}
